@@ -1,0 +1,15 @@
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Data\CRUD.Net.Core.Data\bin\Debug\net6.0\CRUD.Net.Core.Data.deps.json
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Data\CRUD.Net.Core.Data\bin\Debug\net6.0\CRUD.Net.Core.Data.dll
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Data\CRUD.Net.Core.Data\bin\Debug\net6.0\CRUD.Net.Core.Data.pdb
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Data\CRUD.Net.Core.Data\bin\Debug\net6.0\CRUD.Net.Core.Domain.dll
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Data\CRUD.Net.Core.Data\bin\Debug\net6.0\CRUD.Net.Core.Domain.pdb
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Data\CRUD.Net.Core.Data\obj\Debug\net6.0\CRUD.Net.Core.Data.csproj.AssemblyReference.cache
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Data\CRUD.Net.Core.Data\obj\Debug\net6.0\CRUD.Net.Core.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Data\CRUD.Net.Core.Data\obj\Debug\net6.0\CRUD.Net.Core.Data.AssemblyInfoInputs.cache
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Data\CRUD.Net.Core.Data\obj\Debug\net6.0\CRUD.Net.Core.Data.AssemblyInfo.cs
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Data\CRUD.Net.Core.Data\obj\Debug\net6.0\CRUD.Net.Core.Data.csproj.CoreCompileInputs.cache
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Data\CRUD.Net.Core.Data\obj\Debug\net6.0\CRUD.Net.Core.Data.csproj.CopyComplete
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Data\CRUD.Net.Core.Data\obj\Debug\net6.0\CRUD.Net.Core.Data.dll
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Data\CRUD.Net.Core.Data\obj\Debug\net6.0\refint\CRUD.Net.Core.Data.dll
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Data\CRUD.Net.Core.Data\obj\Debug\net6.0\CRUD.Net.Core.Data.pdb
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Data\CRUD.Net.Core.Data\obj\Debug\net6.0\ref\CRUD.Net.Core.Data.dll
