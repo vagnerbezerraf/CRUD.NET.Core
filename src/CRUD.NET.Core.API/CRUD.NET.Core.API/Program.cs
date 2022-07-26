@@ -1,6 +1,5 @@
 using Microsoft.EntityFrameworkCore;
 using CRUD.Net.Core.DataLayer.Context;
-using CRUD.Net.Core.Business.Interfaces;
 using CRUD.Net.Core.Business.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,6 +10,15 @@ builder.Services.AddScoped<EventoService>();
 builder.Services.AddMvc(options =>
 {
     options.SuppressAsyncSuffixInActionNames = false;
+});
+var MyAllowSpecificOrigins = "MyPolicy";
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(name: MyAllowSpecificOrigins,
+                      policy =>
+                      {
+                          policy.WithOrigins("*").AllowAnyHeader().AllowAnyMethod();
+                      });
 });
 
 builder.Services.AddControllers();
@@ -26,6 +34,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors();
 
 app.UseHttpsRedirection();
 

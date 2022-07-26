@@ -1,12 +1,14 @@
 ﻿using CRUD.Net.Core.Business.DTOs.Requests;
 using CRUD.Net.Core.Business.Notifications;
 using CRUD.Net.Core.Business.Services;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
 namespace CRUD.NET.Core.API.Controllers
 {
+    [EnableCors("MyPolicy")]
     [Route("api/[controller]")]
     [ApiController]
     public class EventoController : ControllerBase
@@ -15,9 +17,6 @@ namespace CRUD.NET.Core.API.Controllers
         public async Task<IActionResult> Get([FromServices] EventoService service)
         {
             var response = await service.GetAll();
-
-            if (response.Count <= 0 || response == null)
-                return NotFound("Eventos não encontrados");
 
             return Ok(response);
         }

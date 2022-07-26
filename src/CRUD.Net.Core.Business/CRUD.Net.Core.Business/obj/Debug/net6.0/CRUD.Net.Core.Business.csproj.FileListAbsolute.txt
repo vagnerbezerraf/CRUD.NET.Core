@@ -1,0 +1,17 @@
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Business\CRUD.Net.Core.Business\bin\Debug\net6.0\CRUD.Net.Core.Business.deps.json
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Business\CRUD.Net.Core.Business\bin\Debug\net6.0\CRUD.Net.Core.Business.dll
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Business\CRUD.Net.Core.Business\bin\Debug\net6.0\CRUD.Net.Core.Business.pdb
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Business\CRUD.Net.Core.Business\bin\Debug\net6.0\CRUD.Net.Core.DataLayer.dll
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Business\CRUD.Net.Core.Business\bin\Debug\net6.0\CRUD.Net.Core.Domain.dll
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Business\CRUD.Net.Core.Business\bin\Debug\net6.0\CRUD.Net.Core.DataLayer.pdb
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Business\CRUD.Net.Core.Business\bin\Debug\net6.0\CRUD.Net.Core.Domain.pdb
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Business\CRUD.Net.Core.Business\obj\Debug\net6.0\CRUD.Net.Core.Business.csproj.AssemblyReference.cache
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Business\CRUD.Net.Core.Business\obj\Debug\net6.0\CRUD.Net.Core.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Business\CRUD.Net.Core.Business\obj\Debug\net6.0\CRUD.Net.Core.Business.AssemblyInfoInputs.cache
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Business\CRUD.Net.Core.Business\obj\Debug\net6.0\CRUD.Net.Core.Business.AssemblyInfo.cs
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Business\CRUD.Net.Core.Business\obj\Debug\net6.0\CRUD.Net.Core.Business.csproj.CoreCompileInputs.cache
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Business\CRUD.Net.Core.Business\obj\Debug\net6.0\CRUD.Net.Core.Business.csproj.CopyComplete
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Business\CRUD.Net.Core.Business\obj\Debug\net6.0\CRUD.Net.Core.Business.dll
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Business\CRUD.Net.Core.Business\obj\Debug\net6.0\refint\CRUD.Net.Core.Business.dll
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Business\CRUD.Net.Core.Business\obj\Debug\net6.0\CRUD.Net.Core.Business.pdb
+D:\proj\CRUD-ReactJS-MUI\crud-net-core\src\CRUD.Net.Core.Business\CRUD.Net.Core.Business\obj\Debug\net6.0\ref\CRUD.Net.Core.Business.dll
